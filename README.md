@@ -1,8 +1,8 @@
 ## Oioi eu sou a Stefany Fortini!
 <div align="center">
  <a href="https://github.com/FortiniStefany">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FortiniStefany&show_icons=true&theme=grey&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortiniStefany&layout=compact&langs_count=7&theme=grey"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FortiniStefany&show_icons=true&theme=green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortiniStefany&layout=compact&langs_count=7&theme=green"/>
 </div>
 <div style="display:inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
