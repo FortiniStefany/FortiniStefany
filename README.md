@@ -1,6 +1,6 @@
 ## Oioi eu sou a Stefany Fortini!
 <div align="center">
-  <a href=C:\Users\Particular\Downloads\WhatsApp Image 2022-08-26 at 09.26.03.gif>
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FortiniStefany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortiniStefany&layout=compact&langs_count=7&theme=dracula"/>
 </div>
