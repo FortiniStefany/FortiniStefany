@@ -12,7 +12,7 @@
   <img align="center" alt="teti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="teti-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="teti-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="teti-pic" height="150" style="border-radius:50px;" src=https://media.discordapp.net/attachments/1012704819787612223/1012704992714575962/IMG_20220826_092507.png>
+  <img align="right" alt="teti-pic" height="150" style="border-radius:50px;" src=https://cdn.discordapp.com/attachments/1012704819787612223/1090675406417432597/11534_ug8v2Ump.png>
 </div>
   
   ##
